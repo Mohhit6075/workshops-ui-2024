@@ -5,7 +5,7 @@ import Workshops from './Workshops';
 const title1 = 'Data Structures and Algorithms';
 const image1 = 'images/DSA.png';
 const tag1 = 'Workshop';
-const date1 = 'October 1-2, 2022';
+const date1 = 'September 09-10, 2023';
 const about1 =
   "Programming is like any other sport. You might know the rules, but you have to play to learn. ISTE SC MANIT is here with a workshop on Data Structures and Algorithms to take you a step toward becoming a better programmer. Beginning with arrays to implementation of linked lists and complex graph algorithms. This course gives an insight into the world of stacks, queues and much more to expand your critical thinking and problem-solving abilities. So, all curious and prying minds out there, register in our engrossing workshop and blaze into the all-important domain of Data Structures and Algorithms.";
 const description1 =
@@ -20,7 +20,7 @@ const point1 = [
 const title2 = 'Machine Learning';
 const image2 = 'images/ml.jpg';
 const tag2 = 'Workshop';
-const date2 = 'September 24-25, 2022';
+const date2 = 'September 16-17, 2023';
 const about2 =
   'Leaping towards an advanced future, ISTE SC MANIT brings to you the workshop on Machine learning. Beginning with the fundamentals of Python by performing various loops, functions, and attributes of Python this course condenses to a multitude of knowledge and provides you with a concise understanding of machine learning theory and application. You will be able to code your image-to-text conversion program as well as your chatbot by the conclusion of the workshop. So, all you young enquiring brains out there, sign up for this premium workshop and harness the power of data in novel ways by developing smart machine learning algorithms.';
 const description2 =

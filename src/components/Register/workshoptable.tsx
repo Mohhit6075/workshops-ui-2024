@@ -42,6 +42,9 @@ const useStyles = makeStyles({
   },
 });
 
+const date1 = "09 Sep - 11 Sep 2023";
+const date2 = "16 Sep - 17 Sep 2023";
+
 interface tableprops {
   userDetails: Details;
   updateDetails: (details: any) => void;
@@ -102,7 +105,7 @@ export default function WorkshopTable(props: tableprops) {
               </TableRow>
             </TableHead>
             <TableBody>
-              {/* <TableRow>
+              <TableRow>
                 <TableCell align='left'>1</TableCell>
                 <TableCell align='center'>
                   <Typography component='h6'>Machine Learning</Typography>
@@ -110,7 +113,7 @@ export default function WorkshopTable(props: tableprops) {
                     Immersive Workshop on Machine Learning
                   </Typography>
                 </TableCell>
-                <TableCell align='center'>24-25 September 2022</TableCell>
+                <TableCell align='center'>{date2}</TableCell>
                 <TableCell align='center'>{`${
                   250 - seats.workshopA
                 }/250`}</TableCell>
@@ -127,7 +130,7 @@ export default function WorkshopTable(props: tableprops) {
                     }}
                   />
                 </TableCell>
-              </TableRow> */}
+              </TableRow>
               <TableRow>
                 <TableCell align='left'>1</TableCell>
                 <TableCell align='center'>
@@ -138,7 +141,7 @@ export default function WorkshopTable(props: tableprops) {
                     Engrossing Workshop on Data Structures and Algorithms
                   </Typography>
                 </TableCell>
-                <TableCell align='center'> 1-2 October 2022</TableCell>
+                <TableCell align='center'> {date1} </TableCell>
                 <TableCell align='center'>
                   {`${250 - seats.workshopB}/250`}
                 </TableCell>
