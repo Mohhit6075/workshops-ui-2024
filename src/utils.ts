@@ -32,8 +32,8 @@ export const saveUser = async (
   values: Details,
   amount: string,
   paymentId: string,
-  workshopAcount: Number,
-  workshopBcount: Number,
+  workshopAcount: number,
+  workshopBcount: number,
   promo: string
 ) => {
   try {
