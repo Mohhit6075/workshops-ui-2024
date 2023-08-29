@@ -14,11 +14,11 @@ const LandingPage: React.FC = () => {
             <a>
               <img src='images/iste-white.svg' alt='iste' width='150px' />
             </a>
-            <h1 style={{ margin: '0 20px', color: 'white', fontSize: '32px' }}>
+            {/* <h1 style={{ margin: '0 20px', color: 'white', fontSize: '32px' }}>
               &
-            </h1>
+            </h1> */}
             <a>
-              <img src='images/codingninja.png' alt='title-sponsor' width='150px' />
+              {/* <img src='images/codingninja.png' alt='title-sponsor' width='150px' /> */}
             </a>
           </div>
           <h4>
