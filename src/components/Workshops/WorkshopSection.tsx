@@ -5,7 +5,7 @@ import Workshops from './Workshops';
 const title1 = 'Data Structures and Algorithms';
 const image1 = 'images/DSA.png';
 const tag1 = 'Workshop';
-const date1 = 'September 16-17, 2023';
+const date1 = 'September 16th-17th, 2023';
 const about1 =
   "Programming is like any other sport. You might know the rules, but you have to play to learn. ISTE SC MANIT is here with a workshop on Data Structures and Algorithms to take you a step toward becoming a better programmer. Beginning with arrays to implementation of linked lists and complex graph algorithms. This course gives an insight into the world of stacks, queues and much more to expand your critical thinking and problem-solving abilities. So, all curious and prying minds out there, register in our engrossing workshop and blaze into the all-important domain of Data Structures and Algorithms.";
 const description1 =
@@ -22,7 +22,7 @@ const instructor1=`Mr. Devashish Khare`;
 const title2 = 'Web Development Workshop';
 const image2 = 'images/webd.png';
 const tag2 = 'Workshop';
-const date2 = 'September 09-10, 2023';
+const date2 = 'September 09th-10th, 2023';
 const about2 =
   "Websites surround us whenever we enter the space of our laptops and mobiles. Thus, it becomes essential to know how to build, manage and maintain websites. This workshop includes comprehensive sessions covering HTML, CSS, JavaScript, and more, led by expert instructors. Practical hands-on exercises will empower participants to create responsive and visually appealing websites. Additionally, discussions on the latest trends and emerging technologies in web development will keep participants up-to-date with industry standards. Networking opportunities and collaborative projects will foster a supportive learning environment, making this workshop an invaluable resource for anyone looking to enhance their web development skills.";
 
