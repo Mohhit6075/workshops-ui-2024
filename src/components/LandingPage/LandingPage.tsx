@@ -40,14 +40,16 @@ const LandingPage: React.FC = () => {
           <a
             className="btn btn_hover"
             href="https://unstop.com/o/Qu3RTqU?lb=ZtalcWM"
-            target='_blank'
+            target="_blank"
+            style={{ margin: "10px" }}
           >
             Register DSA Workshop
           </a>
           <a
             className="btn btn_hover"
             href="https://unstop.com/o/oRQ2J9W?lb=ZtalcWM"
-            target='_blank'
+            target="_blank"
+            style={{ margin: "10px" }}
           >
             Register Web Development
           </a>
