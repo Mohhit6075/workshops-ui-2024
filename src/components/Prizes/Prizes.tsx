@@ -29,7 +29,7 @@ const Prizes = () => {
               <p>
                 A chance for you to put your knowledge of codes into practice
                 through Intriguing Internship Programs for the top-performing
-                teams of Version Beta 4.0 from renowned organizations.
+                teams of Version Beta 5.0 from renowned organizations.
               </p>
             </div>
           </Grid>
@@ -38,7 +38,7 @@ const Prizes = () => {
               <img src='images/coupon.png' alt='img' width='120px' />
               <h4>Discount Coupons</h4>
               <p>
-                15% discount coupons on Coding Ninja's Courses.
+                15% discount coupons on GeeksForGeeks' Courses.
               </p>
             </div>
           </Grid>

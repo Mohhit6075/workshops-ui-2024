@@ -38,7 +38,7 @@ const FaqComponent: React.FC = () => {
     },
     {
       question: `What are the domains for the workshops?`,
-      answer: `  Data Structures and Algorithms and Machine Learning. `,
+      answer: `  Data Structures and Algorithms and Web Development. `,
     },
     {
       question: `Duration of the workshop?`,
@@ -46,7 +46,7 @@ const FaqComponent: React.FC = () => {
     },
     {
       question: `Dates for the workshop?`,
-      answer: `Workshop on Machine Learning is on the 24th and 25th of September' 2022. The Data Structures and Algorithms workshop is on the 1st and 2nd of October’ 2022.`,
+      answer: `Workshop on Web Development is on the 01th and 10th of September' 2023. The Data Structures and Algorithms workshop is on the 16th and 17th of September 2023.`,
     },
     {
       question: `Are there any prerequisites for the workshop?`,

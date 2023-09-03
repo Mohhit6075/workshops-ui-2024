@@ -38,69 +38,66 @@ const Footer: React.FC = () => {
         openDialog={openRefund}
         onClose={() => setOpenRefund(false)}
       />
-      <PriceDialog
-        openPrice = {openPrice}
-        onClose = {() => setOpenPrice(false)}
-      />
+      <PriceDialog openPrice={openPrice} onClose={() => setOpenPrice(false)} />
       {/* <RefundDialog
         openDialog={openRefund}
         onClose={() => setOpenRefund(false)}
       /> */}
-      <Container maxWidth='lg'>
+      <Container maxWidth="lg">
         <Grid
           container
-          alignItems='center'
-          justifyContent='center'
-          className='footer-section'
+          alignItems="center"
+          justifyContent="center"
+          className="footer-section"
           spacing={4}
         >
-          <Grid item xs={12} sm={6} md={4} className='footerLeft'>
-            <div className='logo'>
-              <a href='https://istemanit.in/' target='_blank'>
-                <img src='images/iste-white.svg' alt='iste-logo' />
+          <Grid item xs={12} sm={6} md={4} className="footerLeft">
+            <div className="logo">
+              <a href="https://istemanit.in/" target="_blank">
+                <img src="images/iste-white.svg" alt="iste-logo" />
               </a>
             </div>
-            <div className='social-icon'>
-              <div className='icon'>
-                <a href='https://www.instagram.com/istemanit' target='_blank'>
+            <div className="social-icon">
+              <div className="icon">
+                <a href="https://www.instagram.com/istemanit" target="_blank">
                   <FontAwesomeIcon
                     icon={faInstagram}
-                    className='social-media fa-2x'
+                    className="social-media fa-2x"
                   />
                 </a>
               </div>
-              <div className='icon'>
-                <a href='https://www.facebook.com/ISTESCMANIT' target='_blank'>
+              <div className="icon">
+                <a href="https://www.facebook.com/ISTESCMANIT" target="_blank">
                   <FontAwesomeIcon
                     icon={faFacebook}
-                    className='social-media fa-2x'
+                    className="social-media fa-2x"
                   />
                 </a>
               </div>
-              <div className='icon'>
+              <div className="icon">
                 <a
-                  href='https://www.linkedin.com/company/iste-sc-manit'
-                  target='_blank'
+                  href="https://www.linkedin.com/company/iste-sc-manit"
+                  target="_blank"
                 >
                   <FontAwesomeIcon
                     icon={faLinkedin}
-                    className='social-media fa-2x'
+                    className="social-media fa-2x"
                   />
                 </a>
               </div>
-              <div className='icon'>
-                <a href='https://mobile.twitter.com/iste_manit' target='_blank'>
+              <div className="icon">
+                <a href="https://mobile.twitter.com/iste_manit" target="_blank">
                   <FontAwesomeIcon
                     icon={faTwitter}
-                    className='social-media fa-2x'
+                    className="social-media fa-2x"
                   />
                 </a>
               </div>
             </div>
           </Grid>
-          <Grid item xs={12} sm={6} md={4} className='footerMiddle'>
-            <div className='address'>
-              <h2 className='footer-heading'>
+          <Grid item xs={12} sm={6} md={4} className="footerMiddle">
+            <div className="address">
+              <h2 className="footer-heading">
                 <span>
                   <i>
                     <FontAwesomeIcon icon={faMapMarked} />
@@ -110,9 +107,9 @@ const Footer: React.FC = () => {
               </h2>
               <p>
                 <a
-                  className='link'
-                  href='https://goo.gl/maps/nTNnuX6w5YbGKTic7'
-                  target='blank'
+                  className="link"
+                  href="https://goo.gl/maps/nTNnuX6w5YbGKTic7"
+                  target="blank"
                 >
                   Maulana Azad National
                   <br />
@@ -122,9 +119,9 @@ const Footer: React.FC = () => {
               </p>
             </div>
           </Grid>
-          <Grid item xs={12} sm={6} md={4} className='footerRight'>
-            <div className='mail'>
-              <h2 className='footer-heading'>
+          <Grid item xs={12} sm={6} md={4} className="footerRight">
+            <div className="mail">
+              <h2 className="footer-heading">
                 <span>
                   <i>
                     <FontAwesomeIcon icon={faEnvelope} />
@@ -133,13 +130,11 @@ const Footer: React.FC = () => {
                 EMAIL ADDRESS
               </h2>
               <p>
-                <a href='mailto:flairhaven.istemanit@gmail.com'>
-                  flairhaven.istemanit@gmail.com
-                </a>
+                <a href="mailto:istescmanit@gmail.com">istescmanit@gmail.com</a>
               </p>
             </div>
-            <div className='contact'>
-              <h2 className='footer-heading'>
+            <div className="contact">
+              <h2 className="footer-heading">
                 <span>
                   <i>
                     <FontAwesomeIcon icon={faMobile} />
@@ -148,28 +143,29 @@ const Footer: React.FC = () => {
                 CONTACT
               </h2>
               <p>
-                <a href='tel://9469470474'>
-                  <i aria-hidden='true'>
+                <a href="tel://9469470474">
+                  <i aria-hidden="true">
                     <FontAwesomeIcon icon={faPhone} />
                   </i>
-                  Animesh Nayak <br />
-                  +91 8504036415
+                  Akshat Maheshwari <br />
+                  +91 74404 11306
                 </a>
               </p>
               <br />
               <p>
-                <a href='tel://9993654745'>
-                  <i aria-hidden='true'>
+                <a href="tel://9993654745">
+                  <i aria-hidden="true">
                     <FontAwesomeIcon icon={faPhone} />
                   </i>
-                  Navyasree Konagalla <br />
-                  +91 9490165056
+                  Suhaani Batra
+                  <br />
+                  +91 62633 02087
                 </a>
               </p>
             </div>
           </Grid>
         </Grid>
-        <Box className='footer-privacy'>
+        <Box className="footer-privacy">
           <ul>
             <a onClick={() => setOpenDialog(true)}>
               <li>Terms & Conditions</li>
