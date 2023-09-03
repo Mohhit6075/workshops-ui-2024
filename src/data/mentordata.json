@@ -1,0 +1,16 @@
+{
+
+    "0":{
+        "name":"Devashish Khare",
+        "image":"images/mentor_dsa.jpg",
+        "label":"Leading Instructor at GeeksForGeeks",
+        "details":"As an Associate Mentor at GeeksforGeeks and a Computer Science enthusiast set to graduate in 2023, they have honed their expertise in core Python programming, Data Structures, and Algorithms. Their proficiency extends to Object-Oriented Programming, Databases, and Operating Systems, making them a versatile coder and educator. With over 250 LeetCode questions under their belt, they've demonstrated their commitment to mastering these subjects. Beyond coding, they are avid speakers, addressing topics ranging from Coding to Personality Development. Currently, they are embarking on an exciting journey into the realm of Data Science and Development, fueled by their unceasing thirst for knowledge." 
+    },
+    "1":{
+      "name": "Siddharth Sharma",
+      "image": "images/mentor_webd.jpg",
+      "label": "Leading Instructor at GeeksForGeeks",
+      "details": "As a full-stack developer, they exhibit a profound mastery of both front-end and back-end development, with a particular emphasis on front-end proficiency. Throughout their career, they have diligently refined their skills in HTML, CSS, and JavaScript, leveraging these foundational technologies alongside cutting-edge front-end frameworks such as React and Next.js. This expertise empowers them to craft dynamic and highly interactive web applications that provide exceptional user experiences. Their back-end development skills are equally commendable, complementing their problem-solving abilities, and enhancing their capacity for effective project management. With Node.js as part of their toolkit, they are well-equipped to tackle a wide range of development challenges and deliver robust solutions."
+    }
+    
+}

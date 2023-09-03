@@ -9,6 +9,7 @@ interface workshopProps {
   about: string;
   description: string;
   points: string[];
+  instructor: string;
 }
 
 const Workshops: React.FC<workshopProps> = ({
@@ -19,6 +20,7 @@ const Workshops: React.FC<workshopProps> = ({
   about,
   description,
   points,
+  instructor
 }) => {
   return (
     <div className='workshop-div'>
@@ -90,7 +92,7 @@ const Workshops: React.FC<workshopProps> = ({
               and goodies for good performers in workshop.
             </li>
             <li>
-              <span>Mentor:</span> Mr. Shantanu Shubham
+              <span>Mentor:</span> {instructor}
             </li>
             <li>
               <span>Price:</span> ₹ 500

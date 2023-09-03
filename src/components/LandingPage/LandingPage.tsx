@@ -6,13 +6,13 @@ const date2="16 Sep - 17 Sep 2023";
 
 const LandingPage: React.FC = () => {
   return (
-    <section className='landing-section'>
-      <div className='landing-bg'></div>
+    <section className="landing-section">
+      <div className="landing-bg"></div>
       <div>
-        <div className='landing-content'>
-          <div className='hero-sponsors'>
+        <div className="landing-content">
+          <div className="hero-sponsors">
             <a>
-              <img src='images/iste-white.svg' alt='iste' width='150px' />
+              <img src="images/iste-white.svg" alt="iste" width="150px" />
             </a>
             {/* <h1 style={{ margin: '0 20px', color: 'white', fontSize: '32px' }}>
               &
@@ -22,15 +22,34 @@ const LandingPage: React.FC = () => {
             </a>
           </div>
           <h4>
-            <span style={{ fontSize: '20px' }}>Present</span>
+            <span style={{ fontSize: "20px" }}>Present</span>
           </h4>
           <h2>
             FLAIR <span>HAVEN</span>
           </h2>
-          <h6 style={{ margin: '0 0 0 0'}}>Workshop 1: {date1}</h6>
+          <h6 style={{ margin: "0 0 0 0" }}>Workshop 1: {date1}</h6>
           <h6>Workshop 2: {date2}</h6>
-          <a className='btn btn_hover' href='/register'>
+
+          {/* <a className="btn btn_hover" href="/register">
             Register Now
+          </a> */}
+
+          {/* <a className="btn btn_hover" href="/register" target='_blank'>
+            Register for both
+          </a> */}
+          <a
+            className="btn btn_hover"
+            href="https://unstop.com/o/Qu3RTqU?lb=ZtalcWM"
+            target='_blank'
+          >
+            Register DSA Workshop
+          </a>
+          <a
+            className="btn btn_hover"
+            href="https://unstop.com/o/oRQ2J9W?lb=ZtalcWM"
+            target='_blank'
+          >
+            Register Web Development
           </a>
           {/* <h6 style={{ color: 'white'}}>Registrations are now closed</h6> */}
         </div>
