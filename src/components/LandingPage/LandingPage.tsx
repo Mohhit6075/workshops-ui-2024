@@ -2,8 +2,8 @@ import { Button } from "@material-ui/core";
 import { fontSize } from "@mui/system";
 import React from "react";
 
-const date1 = "09 Sep - 10 Sep 2023";
-const date2 = "16 Sep - 17 Sep 2023";
+const date1 = "14 Sep - 15 Sep 2024";
+const date2 = "21 Sep - 22 Sep 2024";
 
 const LandingPage: React.FC = () => {
   return (
@@ -41,7 +41,7 @@ const LandingPage: React.FC = () => {
           <Button>
             <a
               className="btn btn_hover"
-              href="https://unstop.com/o/oRQ2J9W?lb=ZtalcWM"
+              href="https://unstop.com/p/flair-haven-web-development-workshop-maulana-azad-national-institute-of-technology-manit-bhopal-1142631"
               target="_blank"
             >
               Register Web Development
@@ -50,7 +50,7 @@ const LandingPage: React.FC = () => {
           <Button>
             <a
               className="btn btn_hover"
-              href="https://unstop.com/o/Qu3RTqU?lb=ZtalcWM"
+              href="https://unstop.com/p/flair-haven-dsa-workshop-maulana-azad-national-institute-of-technology-manit-bhopal-1145520"
               target="_blank"
             >
               Register DSA Workshop
@@ -59,7 +59,7 @@ const LandingPage: React.FC = () => {
           <Button>
             <a
               className="btn btn_hover"
-              href="https://unstop.com/o/4SgCQoR?lb=ZtalcWM"
+              href="https://unstop.com/p/flair-haven-workshops-web-development-dsa-maulana-azad-national-institute-of-technology-manit-bhopal-1145534"
               target="_blank"
             >
               Register for both
