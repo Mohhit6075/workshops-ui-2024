@@ -33,7 +33,7 @@ const Prizes = () => {
               </p>
             </div>
           </Grid>
-          <Grid item xs={12} sm={8} md={4}>
+          {/* <Grid item xs={12} sm={8} md={4}>
             <div className='prizes-card'>
               <img src='images/coupon.png' alt='img' width='120px' />
               <h4>Discount Coupons</h4>
@@ -41,7 +41,7 @@ const Prizes = () => {
                 15% discount coupons on GeeksForGeeks' Courses.
               </p>
             </div>
-          </Grid>
+          </Grid> */}
         </Grid>
       </Box>
     </Container>

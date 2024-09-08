@@ -40,7 +40,7 @@ const point2 = [
   'Career Prospects.',
   // 'Basics of Python: Loops, Functions, Attributes',
 ];
-const instructor2=`Mr. Siddharth Sharma`;
+const instructor2=`Mr. Rupesh Kumar`;
 
 const workshopSection = () => {
   return (

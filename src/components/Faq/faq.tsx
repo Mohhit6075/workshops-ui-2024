@@ -46,7 +46,7 @@ const FaqComponent: React.FC = () => {
     },
     {
       question: `Dates for the workshop?`,
-      answer: `Workshop on Web Development is on the 09th and 10th of September' 2023. The Data Structures and Algorithms workshop is on the 16th and 17th of September 2023.`,
+      answer: `Workshop on Web Development is on the 14th and 15th of September' 2024. The Data Structures and Algorithms workshop is on the 21st and 22nd of September 2024.`,
     },
     {
       question: `Are there any prerequisites for the workshop?`,
