@@ -17,7 +17,7 @@ const point1 = [
   ' Solving problems.',
   ' Discussing and implementing Algorithms.',
 ];
-const instructor1=`Mr. Devashish Khare`;
+const instructor1=`Mr. Yash Dwivedi`;
 
 const title2 = 'Web Development Workshop';
 const image2 = 'images/webd.png';

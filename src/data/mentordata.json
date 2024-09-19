@@ -1,10 +1,10 @@
 {
 
     "0":{
-        "name":"Devashish Khare",
-        "image":"images/mentor_dsa.jpg",
-        "label":"Associate Mentor and Coding Educator at GeeksforGeeks",
-        "details":"As an Associate Mentor at GeeksforGeeks and a Computer Science enthusiast set to graduate in 2023, they have honed their expertise in core Python programming, Data Structures, and Algorithms. Their proficiency extends to Object-Oriented Programming, Databases, and Operating Systems, making them a versatile coder and educator. With over 250 LeetCode questions under their belt, they've demonstrated their commitment to mastering these subjects. Beyond coding, they are avid speakers, addressing topics ranging from Coding to Personality Development. Currently, they are embarking on an exciting journey into the realm of Data Science and Development, fueled by their unceasing thirst for knowledge." 
+        "name":"Yash Dwivedi",
+        "image":"images/mentor_dsa.png",
+        "label":"Leading Instructor at GeeksforGeeks",
+        "details":"Yash Dwivedi is a skilled professional with expertise in Data Structures and Algorithms. As a Software Engineer at GeeksForGeeks and a DSA Mentor, Yash has helped many students master competitive programming. He has played a pivotal role in shaping the careers of countless aspiring developers. He is a Candidate Master on CodeForces and a 5-star rated coder on CodeChef, showcasing his strong problem-solving skills.Yash has also worked as an SDE Intern at GeeksForGeeks and a Problem Setter at HackerEarth and Relevel, gaining hands-on industry experience. His passion for teaching and mentoring, combined with his expertise in Low-Level Design, makes him a trusted guide for aspiring coders." 
     },
     "1":{
       "name": "Rupesh Kumar",
