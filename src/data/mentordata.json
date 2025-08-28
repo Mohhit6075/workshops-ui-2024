@@ -1,16 +1,16 @@
 {
 
     "0":{
-        "name":"Yash Dwivedi",
-        "image":"images/mentor_dsa.png",
-        "label":"Leading Instructor at GeeksforGeeks",
-        "details":"Yash Dwivedi is a skilled professional with expertise in Data Structures and Algorithms. As a Software Engineer at GeeksForGeeks and a DSA Mentor, Yash has helped many students master competitive programming. He has played a pivotal role in shaping the careers of countless aspiring developers. He is a Candidate Master on CodeForces and a 5-star rated coder on CodeChef, showcasing his strong problem-solving skills.Yash has also worked as an SDE Intern at GeeksForGeeks and a Problem Setter at HackerEarth and Relevel, gaining hands-on industry experience. His passion for teaching and mentoring, combined with his expertise in Low-Level Design, makes him a trusted guide for aspiring coders." 
+        "name":"Amit Kumar Ghosh",
+        "image":"images/mentor_dsa.jpg",
+        "label":"Senior Vice President & Software Engineer at Coding Thinker",
+        "details":"Amit Kumar Ghosh as a software developer with a wealth of experience, bring a unique combination of technical acumen and a passion for mentorship to his role. With 6 years of experience under his belt, He has honed skills in C/C++, Java, Python, SQL, C#, JavaScript, React etc and has a proven track record of delivering high-quality, scalable software solutions and core Computer fundamental knowledge DSA, OOPs, CN, OS etc. His expertise extends beyond just technical proficiency. He has a deep understanding of the importance of creating solutions that meet the needs of both users and stakeholders. This has allowed him to consistently deliver innovative and effective software solutions that drive positive outcomes for the clients. In addition to his technical skills, He is also a committed mentor who enjoys sharing knowledge and experience with others. Through his work in EdTech, He has trained numerous students and has been thrilled to see their exceptional progress and success. Whether it's through one-on-one mentorship, leading technical workshops, or contributing to open-source projects, He is dedicated to helping others reach their full potential." 
     },
     "1":{
-      "name": "Rupesh Kumar",
+      "name": "Avinash Jha",
       "image": "images/mentor_webd.jpg",
-      "label": "Mentor at Coding Thinker",
-      "details": "Rupesh Kumar is an accomplished professional with extensive experience in the tech industry. Having served as a Technical Trainer at Coding Ninjas and Coding Blocks for over a year, Rupesh has played a pivotal role in shaping the careers of countless aspiring developers. His expertise in teaching core programming concepts and industry-relevant skills has made him a trusted mentor for students aiming for success. Rupesh also held the position of Software Development Engineer at Paytm, where he contributed to cutting-edge projects and honed his problem-solving skills in a fast-paced environment. His strong technical background, coupled with hands-on experience in software development, makes him a well-rounded professional with a deep understanding of both education and real-world application of technology."
+      "label": "Technical Trainer at Coding Thinker",
+      "details": "Avinash Jha is currently working as a Software engineer at Nvidia and as a Technical Trainer at Coding Thinker. His past experience include, worked as a SDE1 Intern at Microsoft and as a Associate Software engineer at Juspay. He worked at few giant Edutech like, Scaler, Newton's School, Massai School, Physics Wallah and unacademy. Mentored over 1k + Final Year Students for placements. He has honed my skills and expertise in competitive programming, consistently achieving notable accomplishments across various platforms. He hold a 5-star rating on CodeChef and recognized as an expert on platforms like Codeforces and Codestudio."
     }
     
 }
