@@ -17,7 +17,7 @@ const point1 = [
   ' Solving problems.',
   ' Discussing and implementing Algorithms.',
 ];
-const instructor1=`Mr. Yash Dwivedi`;
+const instructor1=`Mr. Amit Kumar Ghosh`;
 
 const title2 = 'Web Development Workshop';
 const image2 = 'images/webd.png';
@@ -40,7 +40,7 @@ const point2 = [
   'Career Prospects.',
   // 'Basics of Python: Loops, Functions, Attributes',
 ];
-const instructor2=`Mr. Rupesh Kumar`;
+const instructor2=`Mr. Avinash Jha`;
 
 const workshopSection = () => {
   return (
