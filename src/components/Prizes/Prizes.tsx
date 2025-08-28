@@ -29,7 +29,7 @@ const Prizes = () => {
               <p>
                 A chance for you to put your knowledge of codes into practice
                 through Intriguing Internship Programs for the top-performing
-                teams of Version Beta 6.0 from renowned organizations.
+                teams of Version Beta 7.0 from renowned organizations.
               </p>
             </div>
           </Grid>
