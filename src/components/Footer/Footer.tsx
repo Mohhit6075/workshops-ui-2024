@@ -143,23 +143,23 @@ const Footer: React.FC = () => {
                 CONTACT
               </h2>
               <p>
-                <a href="tel://7909474088">
+                <a href="tel://9109896779">
                   <i aria-hidden="true">
                     <FontAwesomeIcon icon={faPhone} />
                   </i>
-                  Abhinav Rai <br />
-                  +91 79094 74088
+                 Tanishq Dinkar <br />
+                  +91 91098 96779
                 </a>
               </p>
               <br />
               <p>
-                <a href="tel://9828534432">
+                <a href="tel://7691929205">
                   <i aria-hidden="true">
                     <FontAwesomeIcon icon={faPhone} />
                   </i>
-                  Vanshika Agarwal
+                  Sanjana Malani
                   <br />
-                  +91 98285 34432
+                  +91 76919 29205
                 </a>
               </p>
             </div>
